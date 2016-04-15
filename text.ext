@@ -2,4 +2,15 @@ asdfasf12312312
 function haha(){
  asdfasdf;
 }
+<<<<<<< HEAD
 3
+=======
+
+function b(){
+	echo 'asdfasdf';
+}
+function asdf(){
+	hahahsdf
+}
+asdf
+>>>>>>> dev
